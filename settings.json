@@ -77,11 +77,12 @@
   "showNotificationsOnCrash" : true,
   "systemMetricsDisplayMode" : "text",
   "voice" : {
+    "localWhisperModelPath" : "\/opt\/homebrew\/share\/whisper-cpp\/models\/ggml-base.en.bin",
     "localWhisperPath" : "\/opt\/homebrew\/bin\/whisper-cli",
     "maxRetries" : 2,
     "requestTimeoutSeconds" : 30,
     "saveFailedTranscriptions" : true,
     "syncTranscriptions" : false,
-    "whisperMethod" : "none"
+    "whisperMethod" : "local"
   }
 }
