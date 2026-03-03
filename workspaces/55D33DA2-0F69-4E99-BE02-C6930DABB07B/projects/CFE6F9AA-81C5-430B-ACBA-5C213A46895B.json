@@ -38,8 +38,22 @@
       "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
       "name" : "release:beta",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run db:migrate:local",
+      "icon" : "play.circle",
+      "id" : "8B5DE812-4CBA-4336-8959-F26AC5248780",
+      "name" : "db:migrate:local",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run db:migrate:remote",
+      "icon" : "play.circle",
+      "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
+      "name" : "db:migrate:remote",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 793152010.411734,
+  "updatedAt" : 794228515.79324,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
