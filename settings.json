@@ -1,6 +1,7 @@
 {
   "agentIdleBadgesEnabled" : true,
   "agentNotificationsEnabled" : true,
+  "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
   "configFolderPath" : "~\/.orchestrator",
   "confirmBeforeStopAll" : true,
