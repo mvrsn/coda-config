@@ -2,7 +2,6 @@
   "agentIdleBadgesEnabled" : true,
   "agentNotificationsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
-  "chromiumUseGlobalInputMonitor" : false,
   "configFolderPath" : "~\/.orchestrator",
   "confirmBeforeStopAll" : true,
   "focusLayoutIds" : [
@@ -15,7 +14,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 794188806.844601,
+    "lastSyncDate" : 794232007.106473,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
@@ -49,8 +48,8 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectStarted",
-      "agentSeen"
+      "agentSeen",
+      "projectStarted"
     ]
   },
   "pomodoro" : {
