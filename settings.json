@@ -49,18 +49,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "focusSeen",
-      "workspaceCreated",
       "pomodoroSeen",
-      "agentSeen",
-      "projectStarted",
-      "browserOpened",
-      "tasksSeen",
-      "sidebarSeen",
-      "zenModeSeen",
-      "linkAdded",
       "projectCreated",
-      "metricsSeen"
+      "agentSeen",
+      "browserOpened",
+      "focusSeen",
+      "sidebarSeen",
+      "linkAdded",
+      "projectStarted",
+      "tasksSeen",
+      "metricsSeen",
+      "zenModeSeen",
+      "workspaceCreated"
     ]
   },
   "pomodoro" : {
