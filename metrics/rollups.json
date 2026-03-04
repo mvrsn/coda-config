@@ -1210,19 +1210,19 @@
       "workspaceStarts" : 0
     },
     "2026-03-04" : {
-      "activeSeconds" : 223,
+      "activeSeconds" : 226,
       "agentSessionsResumed" : 10,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 10
       },
       "appLaunches" : 2,
-      "backgroundSeconds" : 164,
+      "backgroundSeconds" : 409,
       "dayKey" : "2026-03-04",
-      "eventCount" : 55,
+      "eventCount" : 64,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "10" : 55
+        "10" : 64
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 1,
@@ -1250,7 +1250,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 30,
+        "00000000-0000-0000-0000-000000000001" : 275,
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 134
       },
       "workspaceEventBreakdown" : {
@@ -1264,7 +1264,7 @@
   "hourlyActivity" : {
     "0" : 729,
     "1" : 359,
-    "10" : 1128,
+    "10" : 1137,
     "11" : 1115,
     "12" : 994,
     "13" : 915,
@@ -1285,7 +1285,7 @@
     "8" : 566,
     "9" : 549
   },
-  "lastEventAt" : "2026-03-04T10:27:10Z",
+  "lastEventAt" : "2026-03-04T10:31:21Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 571,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1175,
@@ -1310,11 +1310,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 230544,
+    "activeSeconds" : 230547,
     "agentSessionsResumed" : 3713,
     "agentSessionsStarted" : 33,
     "appLaunches" : 528,
-    "backgroundSeconds" : 635893,
+    "backgroundSeconds" : 636138,
     "focusAdds" : 13,
     "linkOpensExternal" : 7,
     "linkOpensInternal" : 43,
@@ -1327,12 +1327,12 @@
     "projectStarts" : 4149,
     "projectStops" : 23,
     "quickActions" : 21,
-    "totalEvents" : 14284,
+    "totalEvents" : 14293,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-04T10:27:10Z",
+  "updatedAt" : "2026-03-04T10:31:21Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 158196,
+    "00000000-0000-0000-0000-000000000001" : 158199,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 39004,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 28953,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
