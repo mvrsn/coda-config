@@ -15,9 +15,9 @@
       "url" : "http:\/\/localhost:3100\/"
     },
     {
-      "id" : "BADC8758-2B87-4CD4-8669-38DBC0EEB6CC",
+      "id" : "148C0292-F156-4FE9-BA13-E237CEE08D02",
       "label" : "prod",
-      "url" : "https:\/\/www.simplyfluent.com\/orchestrator"
+      "url" : "https:\/\/getorchestrator.dev"
     }
   ],
   "logPatterns" : [
@@ -54,6 +54,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794228515.79324,
+  "updatedAt" : 794329246.029443,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
