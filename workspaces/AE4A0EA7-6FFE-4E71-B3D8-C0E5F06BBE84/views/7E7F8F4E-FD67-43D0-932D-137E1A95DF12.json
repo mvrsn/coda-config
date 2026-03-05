@@ -14,16 +14,16 @@
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "7233395D-8DEE-44A1-8CA5-CFCDE59688B1",
+                "id" : "9BBD62B9-2D7D-4972-B3F9-E1EAF39EB246",
                 "type" : "browser"
               },
-              "id" : "8298075C-B3C5-4D76-82B9-72BF7ADF2479",
+              "id" : "09A806D0-08B8-4723-9D5A-4A8C56CED0C1",
               "isMinimized" : false
             },
             "type" : "panel"
           },
           "id" : "2261582B-17E1-42C4-9480-F3DFF44608EA",
-          "ratio" : 0.7,
+          "ratio" : 0,
           "second" : {
             "split" : {
               "axis" : "horizontal",
@@ -75,6 +75,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794438833.107774,
+  "updatedAt" : 794439231.284731,
   "workspaceId" : "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84"
 }
