@@ -14,16 +14,16 @@
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "782427F3-080A-4846-9F3E-8581C8AF9DD7",
+                "id" : "7233395D-8DEE-44A1-8CA5-CFCDE59688B1",
                 "type" : "browser"
               },
-              "id" : "9ECEFD7B-C361-42DD-947F-6D097B550565",
+              "id" : "8298075C-B3C5-4D76-82B9-72BF7ADF2479",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "D12093D3-9F8B-4163-A1C2-12A53CF3929E",
-          "ratio" : 0.7481255243288593,
+          "id" : "2261582B-17E1-42C4-9480-F3DFF44608EA",
+          "ratio" : 0.7,
           "second" : {
             "split" : {
               "axis" : "horizontal",
@@ -33,12 +33,12 @@
                     "id" : "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C",
                     "type" : "project"
                   },
-                  "id" : "1CFF2132-0E3E-4BB2-9E50-D3583F2C44B5",
+                  "id" : "D6E4C464-9282-4A11-9722-DEF67702A448",
                   "isMinimized" : false
                 },
                 "type" : "panel"
               },
-              "id" : "D5B9C543-154A-4A89-95D6-4B72F0E50044",
+              "id" : "CE42C067-6340-48BB-B076-A8F0C38D201B",
               "ratio" : 0.5,
               "second" : {
                 "panel" : {
@@ -46,7 +46,7 @@
                     "id" : "1FD78126-3777-456E-B467-72855D63E3FC",
                     "type" : "project"
                   },
-                  "id" : "BAA232ED-BC42-43C5-8F57-4F227730BC6A",
+                  "id" : "7B08A509-2DC0-407F-ACC5-1FCF9B7EB7F9",
                   "isMinimized" : false
                 },
                 "type" : "panel"
@@ -57,8 +57,8 @@
         },
         "type" : "split"
       },
-      "id" : "F501737E-A916-4A43-A964-52FD38F4014F",
-      "ratio" : 0.734629274764151,
+      "id" : "D265FC3B-88A2-4746-873B-CF45AEEC7387",
+      "ratio" : 0.7,
       "second" : {
         "panel" : {
           "content" : {
@@ -67,7 +67,7 @@
             "projectId" : "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C",
             "type" : "agent"
           },
-          "id" : "CC2FE9BD-E1AB-4549-B1A2-21CE28183BDB",
+          "id" : "823B26DC-A998-4E17-90CA-404449CEA96B",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -75,6 +75,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794062124.202336,
+  "updatedAt" : 794438833.107774,
   "workspaceId" : "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84"
 }
