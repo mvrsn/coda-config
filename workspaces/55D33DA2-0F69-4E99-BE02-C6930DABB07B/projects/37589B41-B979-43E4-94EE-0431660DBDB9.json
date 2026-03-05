@@ -10,9 +10,9 @@
   "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
   "links" : [
     {
-      "id" : "CB4F1D78-774B-4E3D-9943-7B908DEBB70B",
+      "id" : "98042973-84D0-47D4-ABE6-3B1B6B170A5C",
       "label" : "dev",
-      "url" : "http:\/\/localhost:5200\/"
+      "url" : "http:\/\/localhost:5199\/"
     }
   ],
   "logPatterns" : [
@@ -22,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794093642.839126,
+  "updatedAt" : 794389246.150801,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/redesign"
 }
