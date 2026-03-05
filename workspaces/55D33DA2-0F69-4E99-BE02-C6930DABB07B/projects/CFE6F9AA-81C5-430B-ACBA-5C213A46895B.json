@@ -33,6 +33,13 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
+      "command" : "cd ..\/app && .\/scripts\/build.sh",
+      "icon" : "hammer",
+      "id" : "75DB37DB-B66A-4FC1-91E0-EAF7AD040FA6",
+      "name" : "build:app",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
       "command" : "npm run release:beta",
       "icon" : "play.circle",
       "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
@@ -52,15 +59,8 @@
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
       "name" : "db:migrate:remote",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
-    },
-    {
-      "command" : "cd ..\/app && .\/scripts\/build.sh",
-      "icon" : "hammer",
-      "id" : "75DB37DB-B66A-4FC1-91E0-EAF7AD040FA6",
-      "name" : "build:app",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794420833.920222,
+  "updatedAt" : 794420848.316211,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
