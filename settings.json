@@ -49,18 +49,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "metricsSeen",
-      "projectCreated",
-      "projectStarted",
-      "browserOpened",
-      "agentSeen",
-      "pomodoroSeen",
-      "focusSeen",
-      "zenModeSeen",
       "tasksSeen",
+      "projectStarted",
+      "focusSeen",
+      "pomodoroSeen",
+      "zenModeSeen",
+      "agentSeen",
       "linkAdded",
+      "browserOpened",
       "sidebarSeen",
-      "workspaceCreated"
+      "workspaceCreated",
+      "metricsSeen",
+      "projectCreated"
     ]
   },
   "pomodoro" : {
@@ -71,13 +71,13 @@
     "shortBreakMinutes" : 5,
     "showBreakTakeover" : true,
     "state" : {
-      "awaitingManualContinuation" : true,
+      "awaitingManualContinuation" : false,
       "breakTakeoverVisible" : false,
       "focusRoundsCompletedInCycle" : 0,
       "isRunning" : false,
-      "lastUpdatedAt" : 794074879.79883,
+      "lastUpdatedAt" : 794437018.161857,
       "phase" : "focus",
-      "remainingSeconds" : 0
+      "remainingSeconds" : 1500
     },
     "visualStyle" : "etherealDrift"
   },
