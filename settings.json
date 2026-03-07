@@ -7,6 +7,7 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
+      "workspace_switch",
       "agent_screenshot",
       "voice_input",
       "zen_mode",
