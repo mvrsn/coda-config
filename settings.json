@@ -8,7 +8,8 @@
   "discovery" : {
     "completedTips" : [
       "voice_input",
-      "zen_mode"
+      "zen_mode",
+      "agent_screenshot"
     ],
     "dismissed" : false
   },
