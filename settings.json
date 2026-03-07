@@ -7,7 +7,7 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-
+      "voice_input"
     ],
     "dismissed" : false
   },
@@ -55,18 +55,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "browserOpened",
-      "agentSeen",
-      "metricsSeen",
       "sidebarSeen",
-      "pomodoroSeen",
-      "tasksSeen",
-      "viewsSeen",
+      "browserOpened",
+      "metricsSeen",
       "projectCreated",
-      "workspaceCreated",
       "projectStarted",
+      "viewsSeen",
+      "tasksSeen",
+      "focusSeen",
       "linkAdded",
-      "focusSeen"
+      "pomodoroSeen",
+      "workspaceCreated",
+      "agentSeen"
     ],
     "guidedState" : "notStarted",
     "guidedUsedDemo" : false
