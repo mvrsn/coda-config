@@ -7,9 +7,10 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
+      "agent_screenshot",
       "voice_input",
       "zen_mode",
-      "agent_screenshot"
+      "browser_fullscreen"
     ],
     "dismissed" : false
   },
