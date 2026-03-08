@@ -54,20 +54,13 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
-      "command" : "npm run db:migrate:local",
-      "icon" : "play.circle",
-      "id" : "8B5DE812-4CBA-4336-8959-F26AC5248780",
-      "name" : "db:migrate:local",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
-    },
-    {
       "command" : "npm run db:migrate:remote",
       "icon" : "play.circle",
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
-      "name" : "db:migrate:remote",
+      "name" : "migrate",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794660311.506871,
+  "updatedAt" : 794660333.427669,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
