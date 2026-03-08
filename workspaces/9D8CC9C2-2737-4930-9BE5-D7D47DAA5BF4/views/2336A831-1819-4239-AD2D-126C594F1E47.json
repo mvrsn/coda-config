@@ -3,7 +3,7 @@
   "createdAt" : 794658948.52368,
   "icon" : "square.grid.2x2",
   "id" : "2336A831-1819-4239-AD2D-126C594F1E47",
-  "name" : "Admin",
+  "name" : "admin",
   "order" : 1,
   "root" : {
     "split" : {
@@ -56,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794658955.581088,
+  "updatedAt" : 794659109.141481,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
