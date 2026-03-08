@@ -1,0 +1,28 @@
+{
+  "autoRestart" : false,
+  "color" : "95E1D3",
+  "command" : "yarn dev",
+  "createdAt" : 794658684.888827,
+  "environment" : {
+
+  },
+  "icon" : "lock.shield",
+  "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+  "links" : [
+    {
+      "id" : "B26F4C57-9913-45CC-AA23-D7944155FDAB",
+      "label" : "admin",
+      "url" : "http:\/\/localhost:3101"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Admin",
+  "port" : 3101,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794658689.949336,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/admin"
+}
