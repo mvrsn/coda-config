@@ -1,0 +1,21 @@
+{
+  "color" : "4ECDC4",
+  "createdAt" : 794746981.642143,
+  "icon" : "terminal",
+  "id" : "7967D7A6-588E-441B-9656-B949F4E631F3",
+  "name" : "New View",
+  "order" : 3,
+  "root" : {
+    "panel" : {
+      "content" : {
+        "id" : "7C9455FE-FE04-48E9-8C40-8F654516E730",
+        "type" : "project"
+      },
+      "id" : "32DEBE4D-B971-4F20-A7E9-9538F568B050",
+      "isMinimized" : false
+    },
+    "type" : "panel"
+  },
+  "updatedAt" : 794746981.642198,
+  "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
+}
