@@ -59,8 +59,29 @@
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
       "name" : "migrate",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run app:build",
+      "icon" : "play.circle",
+      "id" : "D07EE160-7A2A-4B9C-B207-50349DD82ADE",
+      "name" : "app:build",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run app:upload",
+      "icon" : "play.circle",
+      "id" : "3659F6DF-7190-4E4B-9789-8D3FC33307DF",
+      "name" : "app:upload",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run app:release",
+      "icon" : "play.circle",
+      "id" : "5BB732C2-3040-4640-AE52-377DDB46F3EE",
+      "name" : "app:release",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794660333.427669,
+  "updatedAt" : 794738734.407073,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
