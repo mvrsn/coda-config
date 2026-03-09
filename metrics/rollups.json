@@ -1514,20 +1514,20 @@
       "workspaceStarts" : 0
     },
     "2026-03-09" : {
-      "activeSeconds" : 1454,
+      "activeSeconds" : 1659,
       "agentSessionsResumed" : 0,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
 
       },
       "appLaunches" : 0,
-      "backgroundSeconds" : 31516,
+      "backgroundSeconds" : 31542,
       "dayKey" : "2026-03-09",
-      "eventCount" : 12,
+      "eventCount" : 17,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "8" : 5,
-        "9" : 7
+        "9" : 12
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -1537,9 +1537,9 @@
       "pomodoroFocusMinutes" : 0,
       "pomodoroFocusSessions" : 0,
       "projectEventBreakdown" : {
-        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 3
+        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 4
       },
-      "projectRestarts" : 3,
+      "projectRestarts" : 4,
       "projectStarts" : 0,
       "projectStops" : 0,
       "quickActions" : 0,
@@ -1547,11 +1547,11 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 31502,
+        "00000000-0000-0000-0000-000000000001" : 31528,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 14
       },
       "workspaceEventBreakdown" : {
-        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 3
+        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 4
       },
       "workspaceStarts" : 0
     }
@@ -1580,9 +1580,9 @@
     "6" : 23,
     "7" : 246,
     "8" : 608,
-    "9" : 597
+    "9" : 602
   },
-  "lastEventAt" : "2026-03-09T09:10:45Z",
+  "lastEventAt" : "2026-03-09T09:17:07Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 571,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1195,
@@ -1595,7 +1595,7 @@
     "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 76,
     "41ED51C2-D9AA-42F3-AABF-5D2B2403BB87" : 1,
     "51256D55-8371-4690-BD11-46711408CE57" : 414,
-    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 1244,
+    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 1245,
     "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 628,
     "752CA654-60F1-491E-837D-47766A70D476" : 488,
     "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C" : 31,
@@ -1608,11 +1608,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 284116,
+    "activeSeconds" : 284321,
     "agentSessionsResumed" : 3970,
     "agentSessionsStarted" : 55,
     "appLaunches" : 578,
-    "backgroundSeconds" : 780662,
+    "backgroundSeconds" : 780688,
     "focusAdds" : 17,
     "linkOpensExternal" : 10,
     "linkOpensInternal" : 53,
@@ -1621,16 +1621,16 @@
     "pomodoroBreaksTaken" : 0,
     "pomodoroFocusMinutes" : 0,
     "pomodoroFocusSessions" : 0,
-    "projectRestarts" : 56,
+    "projectRestarts" : 57,
     "projectStarts" : 4518,
     "projectStops" : 35,
     "quickActions" : 47,
-    "totalEvents" : 16035,
+    "totalEvents" : 16040,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-09T09:10:45Z",
+  "updatedAt" : "2026-03-09T09:17:07Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 205752,
+    "00000000-0000-0000-0000-000000000001" : 205957,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 39130,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 28958,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
@@ -1638,7 +1638,7 @@
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3079
   },
   "workspaceBreakdown" : {
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 5802,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 5803,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 1995,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
     "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 99,
