@@ -1,0 +1,23 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "",
+  "createdAt" : 794747004.542993,
+  "environment" : {
+
+  },
+  "icon" : "checkmark.seal",
+  "id" : "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "marketing",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794747004.542993,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/marketing"
+}
