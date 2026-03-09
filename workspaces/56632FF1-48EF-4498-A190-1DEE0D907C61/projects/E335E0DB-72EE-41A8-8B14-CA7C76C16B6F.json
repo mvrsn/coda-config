@@ -1,7 +1,7 @@
 {
   "autoRestart" : false,
   "color" : "4ECDC4",
-  "command" : "",
+  "command" : "yarn dev",
   "createdAt" : 794747004.542993,
   "environment" : {
 
@@ -18,6 +18,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794748935.949565,
+  "updatedAt" : 794750024.798076,
   "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/marketing"
 }
