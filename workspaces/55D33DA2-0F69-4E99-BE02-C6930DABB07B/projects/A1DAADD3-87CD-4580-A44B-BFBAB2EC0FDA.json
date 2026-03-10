@@ -1,7 +1,7 @@
 {
   "autoRestart" : false,
   "color" : "4ECDC4",
-  "command" : "yarn serve",
+  "command" : "yarn dev",
   "createdAt" : 792961004.021648,
   "environment" : {
 
@@ -40,6 +40,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 792961066.161824,
+  "updatedAt" : 794872567.716694,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
