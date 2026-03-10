@@ -3,7 +3,7 @@
   "createdAt" : 794824533.587882,
   "icon" : "square.grid.2x2",
   "id" : "F722C295-8BD6-48C3-A568-A9F38AAF50F2",
-  "name" : "transcriptions",
+  "name" : "Transcriptions",
   "order" : 6,
   "root" : {
     "split" : {
@@ -37,6 +37,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794824533.587916,
+  "updatedAt" : 794824599.312318,
   "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
