@@ -5,7 +5,8 @@
   "createdAt" : 792961004.02156,
   "dismissedLocalhostURLs" : [
     "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/processFormSubmission",
-    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/sendMessage"
+    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/sendMessage",
+    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/calendar"
   ],
   "environment" : {
 
@@ -28,6 +29,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
     }
   ],
-  "updatedAt" : 794872749.972947,
+  "updatedAt" : 794874603.288092,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
 }
