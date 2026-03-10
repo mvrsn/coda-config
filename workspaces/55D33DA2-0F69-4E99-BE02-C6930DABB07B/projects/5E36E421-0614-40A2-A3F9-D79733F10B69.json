@@ -9,7 +9,11 @@
   "icon" : "terminal",
   "id" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
   "links" : [
-
+    {
+      "id" : "BACAAB68-013B-48A2-800D-311AF1CE4281",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3000"
+    }
   ],
   "logPatterns" : [
 
@@ -18,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794824737.242646,
+  "updatedAt" : 794824878.134402,
   "workingDirectory" : "\/Users\/mvrsn\/code\/remotion"
 }
