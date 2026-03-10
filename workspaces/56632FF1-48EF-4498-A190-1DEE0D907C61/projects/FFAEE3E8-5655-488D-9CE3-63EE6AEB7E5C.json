@@ -1,0 +1,23 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "npm run dev",
+  "createdAt" : 794824529.838234,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "transcriptions",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794824529.838234,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/transcriptions"
+}
