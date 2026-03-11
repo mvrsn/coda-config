@@ -1,7 +1,7 @@
 {
   "autoRestart" : false,
   "color" : "#AB6400",
-  "command" : "yarn dev",
+  "command" : "yarn dev --port 3847",
   "createdAt" : 794927355.925769,
   "environment" : {
 
@@ -15,10 +15,10 @@
 
   ],
   "name" : "Translator Web",
-  "port" : 3000,
+  "port" : 3847,
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794927355.925769,
+  "updatedAt" : 794927424.143349,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/translator-web"
 }
