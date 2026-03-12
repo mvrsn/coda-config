@@ -1,7 +1,7 @@
 {
   "autoRestart" : false,
   "color" : "4ECDC4",
-  "command" : "yarn dev",
+  "command" : "python3 serve.py",
   "createdAt" : 795011187.361986,
   "environment" : {
 
@@ -9,7 +9,11 @@
   "icon" : "terminal",
   "id" : "2C3F1B80-012B-4C26-8F2D-35FA91D6F82F",
   "links" : [
-
+    {
+      "id" : "1AC0075B-981B-4839-9FE1-174D1ECCBC2A",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:51740\/"
+    }
   ],
   "logPatterns" : [
 
@@ -18,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 795011187.361986,
+  "updatedAt" : 795011221.81998,
   "workingDirectory" : "\/Users\/mvrsn\/.orchestrator\/demo"
 }
