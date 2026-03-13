@@ -7,7 +7,7 @@
   "order" : 11,
   "root" : {
     "split" : {
-      "axis" : "horizontal",
+      "axis" : "vertical",
       "first" : {
         "panel" : {
           "content" : {
@@ -19,22 +19,23 @@
         },
         "type" : "panel"
       },
-      "id" : "F916697A-0903-49C6-B348-239CCE44984A",
-      "ratio" : 0.7,
+      "id" : "C9503CFD-20A8-4E1D-92E7-E2AE1BDD0348",
+      "previousRatio" : 0.5,
+      "ratio" : 1,
       "second" : {
         "panel" : {
           "content" : {
             "id" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
             "type" : "project"
           },
-          "id" : "CC7B0227-4425-4FF6-AAA7-A8246CF47FB6",
-          "isMinimized" : false
+          "id" : "F5D86B5E-1E6B-4533-9368-486D9AA3ACA9",
+          "isMinimized" : true
         },
         "type" : "panel"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 795120068.080282,
+  "updatedAt" : 795120075.863311,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
