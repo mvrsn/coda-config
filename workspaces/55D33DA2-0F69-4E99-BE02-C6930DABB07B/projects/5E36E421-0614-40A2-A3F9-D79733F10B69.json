@@ -13,6 +13,11 @@
       "id" : "BACAAB68-013B-48A2-800D-311AF1CE4281",
       "label" : "dev",
       "url" : "http:\/\/localhost:3000"
+    },
+    {
+      "id" : "EF4C547E-554E-4176-8F36-5E771A0BF6F8",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:4172"
     }
   ],
   "logPatterns" : [
@@ -22,6 +27,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794927318.312143,
+  "updatedAt" : 795122589.081621,
   "workingDirectory" : "\/Users\/mvrsn\/code\/remotion"
 }
