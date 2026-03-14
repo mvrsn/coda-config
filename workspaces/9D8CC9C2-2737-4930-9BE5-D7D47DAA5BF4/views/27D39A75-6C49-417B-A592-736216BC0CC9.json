@@ -53,7 +53,7 @@
                 "type" : "agent"
               },
               "id" : "4DB41884-84B0-4B9B-AF57-406ADB5EA0DE",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           },
@@ -99,6 +99,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795211304.048306,
+  "updatedAt" : 795217339.398285,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
