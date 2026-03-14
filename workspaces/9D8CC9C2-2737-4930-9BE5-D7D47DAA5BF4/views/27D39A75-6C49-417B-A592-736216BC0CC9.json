@@ -9,46 +9,27 @@
     "split" : {
       "axis" : "horizontal",
       "first" : {
-        "split" : {
-          "axis" : "vertical",
-          "first" : {
-            "panel" : {
-              "content" : {
-                "id" : "F491FB7E-2E9A-4465-B532-6FDCD0EE8E11",
-                "type" : "browser"
-              },
-              "id" : "5B8CFCBA-E120-4C7D-9337-F77872C26CC3",
-              "isMinimized" : false
-            },
-            "type" : "panel"
+        "panel" : {
+          "content" : {
+            "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+            "type" : "project"
           },
-          "id" : "2AE20D97-99AF-4CD8-BA8B-41E8566B59F9",
-          "ratio" : 0.7,
-          "second" : {
-            "panel" : {
-              "content" : {
-                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                "type" : "project"
-              },
-              "id" : "D321177E-61F5-4913-B77F-1C3CEF4FD881",
-              "isMinimized" : false
-            },
-            "type" : "panel"
-          }
+          "id" : "D321177E-61F5-4913-B77F-1C3CEF4FD881",
+          "isMinimized" : false
         },
-        "type" : "split"
+        "type" : "panel"
       },
-      "id" : "8F0057D0-CC00-4CDC-A692-2C41DDA56240",
-      "ratio" : 0.7,
+      "id" : "DF81B664-A387-4DBB-B21A-C46893E495D6",
+      "ratio" : 0.5,
       "second" : {
         "panel" : {
           "content" : {
             "agentType" : "claude",
-            "id" : "B92BE955-1BF3-4A75-9CFF-FCD4AA71D078",
+            "id" : "B6A39E3C-E5B0-4DB9-8514-CB27A5A5A2C8",
             "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
             "type" : "agent"
           },
-          "id" : "1DAEFC7A-2BB9-4332-BC8A-D4F42482F0E5",
+          "id" : "3C6947BE-0A79-4EB8-ADC9-85E179CA0E32",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -56,6 +37,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795141449.625774,
+  "updatedAt" : 795141467.475727,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
