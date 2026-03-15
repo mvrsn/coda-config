@@ -1967,7 +1967,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-15" : {
-      "activeSeconds" : 34606,
+      "activeSeconds" : 34675,
       "agentSessionsResumed" : 340,
       "agentSessionsStarted" : 10,
       "agentTypeEventBreakdown" : {
@@ -2092,7 +2092,7 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 525921,
+    "activeSeconds" : 525990,
     "agentSessionsResumed" : 5350,
     "agentSessionsStarted" : 103,
     "appLaunches" : 677,
@@ -2112,13 +2112,13 @@
     "totalEvents" : 20836,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-15T19:13:50Z",
+  "updatedAt" : "2026-03-15T19:15:01Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 431453,
+    "00000000-0000-0000-0000-000000000001" : 431455,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 41266,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 29971,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 18406,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 18473,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3136
   },
   "workspaceBreakdown" : {
