@@ -17,12 +17,12 @@
                 "id" : "D4F403BA-DE9D-4E92-90BC-EEB795303236",
                 "type" : "browser"
               },
-              "id" : "F7C9BE60-EE5F-4ACC-B2EE-F677CF011BD2",
+              "id" : "1CDA5773-27DF-479F-9223-04F3E7F73B5C",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "C7DCE992-3037-4909-9611-8ABD662701C1",
+          "id" : "459AA44E-4072-4EAE-9491-DA5AFD29CCAE",
           "ratio" : 0.65,
           "second" : {
             "split" : {
@@ -33,20 +33,20 @@
                     "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
                     "type" : "project"
                   },
-                  "id" : "8426E538-AE43-4E03-B665-DA2AB1084C86",
+                  "id" : "C9394A98-BA3D-4F0D-89B1-6BAC6B54D0A6",
                   "isMinimized" : false
                 },
                 "type" : "panel"
               },
-              "id" : "E71C5D5D-F57C-4F45-AB49-311B56032ECB",
-              "ratio" : 0.3333333333333333,
+              "id" : "7C8B6A67-E52F-438C-B16F-428D45D625C4",
+              "ratio" : 0.5,
               "second" : {
                 "panel" : {
                   "content" : {
                     "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                     "type" : "project"
                   },
-                  "id" : "366229E4-6D60-4495-B382-B67B896DB3D7",
+                  "id" : "9CE79E80-F4F2-4531-83C7-00707D9BE1DF",
                   "isMinimized" : false
                 },
                 "type" : "panel"
@@ -57,45 +57,26 @@
         },
         "type" : "split"
       },
-      "id" : "A936CE06-1B7A-469F-81F4-71847E8600C9",
+      "id" : "5F915FAD-BAA8-4F18-A3FB-46D75E694C47",
       "ratio" : 0.7,
       "second" : {
         "split" : {
           "axis" : "vertical",
           "first" : {
-            "split" : {
-              "axis" : "vertical",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "186649C7-9B9D-494D-826F-F6E807B3EC45",
-                    "type" : "browser"
-                  },
-                  "id" : "389A973F-8626-4893-819B-9B5331AEC9F3",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "agentType" : "claude",
+                "id" : "60895A6F-3BEB-4057-A2B4-D9DDB9F04E21",
+                "projectId" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+                "type" : "agent"
               },
-              "id" : "105ED0CA-B0A0-4E16-80C9-87CE53277D19",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "claude",
-                    "id" : "60895A6F-3BEB-4057-A2B4-D9DDB9F04E21",
-                    "projectId" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
-                    "type" : "agent"
-                  },
-                  "id" : "195701D9-9E79-420F-A08E-E6369C17918B",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "47132E16-E637-4E2D-AEB8-D08D61064278",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           },
-          "id" : "FFEF6512-2D31-4452-B695-4679D64ED0B4",
-          "ratio" : 0.6666666666666666,
+          "id" : "D997595C-F7B4-4F36-883C-C29C9B674CF2",
+          "ratio" : 0.5,
           "second" : {
             "panel" : {
               "content" : {
@@ -104,7 +85,7 @@
                 "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                 "type" : "agent"
               },
-              "id" : "4C5EB5EC-6D3F-410C-B6A8-4678CA898D5A",
+              "id" : "AB3E4F7B-EAD6-4936-AF28-5BBD9177216E",
               "isMinimized" : false
             },
             "type" : "panel"
@@ -115,6 +96,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795300467.233746,
+  "updatedAt" : 795300811.396243,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
