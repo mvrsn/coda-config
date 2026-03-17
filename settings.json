@@ -3,20 +3,20 @@
   "agentNotificationsEnabled" : true,
   "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
-  "configFolderPath" : "\/Users\/mvrsn\/.orchestrator\/profiles\/default",
+  "configFolderPath" : "\/Users\/mvrsn\/.coda\/profiles\/default",
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "browser_inspector",
       "quick_add_task",
       "zen_mode",
-      "menu_bar_quick_access",
-      "focus_drag",
+      "session_restore",
+      "browser_fullscreen",
       "voice_input",
       "agent_screenshot",
-      "workspace_switch",
-      "browser_fullscreen",
-      "session_restore"
+      "focus_drag",
+      "browser_inspector",
+      "menu_bar_quick_access",
+      "workspace_switch"
     ],
     "dismissed" : false
   },
@@ -67,18 +67,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
+      "projectStarted",
+      "agentSeen",
+      "linkAdded",
+      "pomodoroSeen",
+      "workspaceCreated",
+      "viewsSeen",
+      "sidebarSeen",
+      "focusSeen",
+      "metricsSeen",
       "tasksSeen",
       "browserOpened",
-      "agentSeen",
-      "focusSeen",
-      "projectCreated",
-      "linkAdded",
-      "projectStarted",
-      "viewsSeen",
-      "pomodoroSeen",
-      "metricsSeen",
-      "workspaceCreated",
-      "sidebarSeen"
+      "projectCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
