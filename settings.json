@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "browser_fullscreen",
-      "zen_mode",
-      "focus_drag",
-      "session_restore",
       "agent_screenshot",
-      "voice_input",
+      "browser_inspector",
       "quick_add_task",
+      "focus_drag",
+      "zen_mode",
+      "session_restore",
+      "voice_input",
       "menu_bar_quick_access",
       "workspace_switch",
-      "browser_inspector"
+      "browser_fullscreen"
     ],
     "dismissed" : false
   },
@@ -33,8 +33,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 795355207.47303,
-    "lastSyncError" : "Git command failed: git pull --rebase --autostash origin main\nFrom github.com:mvrsn\/orchestrator-config\n * branch            main       -> FETCH_HEAD\nwarning: fetch updated the current branch head.\nfast-forwarding your working tree from\ncommit abe7e31108a37e8fb2e85c8de38f61ba8faea264.\nerror: Your local changes to the following files would be overwritten by merge:\n\tmetrics\/rollups.json\n\tmetrics\/schema.json\nPlease commit your changes or stash them before you merge.\nAborting\nfatal: Cannot fast-forward your working tree.\nAfter making sure that you saved anything precious from\n$ git diff abe7e31108a37e8fb2e85c8de38f61ba8faea264\noutput, run\n$ git reset --hard\nto recover.\n",
+    "lastSyncDate" : 795400663.982858,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
@@ -68,18 +67,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "metricsSeen",
-      "linkAdded",
-      "projectCreated",
-      "tasksSeen",
-      "pomodoroSeen",
-      "agentSeen",
-      "workspaceCreated",
       "projectStarted",
-      "focusSeen",
       "viewsSeen",
+      "pomodoroSeen",
+      "tasksSeen",
       "browserOpened",
-      "sidebarSeen"
+      "sidebarSeen",
+      "metricsSeen",
+      "agentSeen",
+      "linkAdded",
+      "focusSeen",
+      "workspaceCreated",
+      "projectCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
