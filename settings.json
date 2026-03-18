@@ -7,15 +7,15 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
+      "zen_mode",
+      "voice_input",
+      "menu_bar_quick_access",
+      "agent_screenshot",
+      "session_restore",
+      "browser_fullscreen",
       "focus_drag",
       "browser_inspector",
-      "browser_fullscreen",
       "quick_add_task",
-      "zen_mode",
-      "session_restore",
-      "menu_bar_quick_access",
-      "voice_input",
-      "agent_screenshot",
       "workspace_switch"
     ],
     "dismissed" : false
@@ -45,6 +45,14 @@
   "lastSelectedLayoutId" : "688BD6EA-EB42-4B8D-849D-89A785133C29",
   "lastSelectedWorkspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B",
   "linkOpenPreference" : "panel",
+  "liveAgentMetrics" : {
+    "claude" : {
+      "state" : "disabled"
+    },
+    "gemini" : {
+      "state" : "disabled"
+    }
+  },
   "mailingList" : {
     "bannerDismissed" : true,
     "subscribed" : false
@@ -68,18 +76,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "sidebarSeen",
-      "tasksSeen",
-      "viewsSeen",
-      "workspaceCreated",
       "projectStarted",
+      "agentSeen",
+      "tasksSeen",
+      "browserOpened",
+      "workspaceCreated",
       "pomodoroSeen",
       "linkAdded",
       "projectCreated",
+      "sidebarSeen",
+      "viewsSeen",
       "metricsSeen",
-      "focusSeen",
-      "browserOpened",
-      "agentSeen"
+      "focusSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
