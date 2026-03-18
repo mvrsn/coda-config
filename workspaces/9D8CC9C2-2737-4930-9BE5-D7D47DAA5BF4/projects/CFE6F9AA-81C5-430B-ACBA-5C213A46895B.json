@@ -17,7 +17,7 @@
     {
       "id" : "148C0292-F156-4FE9-BA13-E237CEE08D02",
       "label" : "prod",
-      "url" : "https:\/\/getcoda.dev"
+      "url" : "https:\/\/usecoda.dev"
     }
   ],
   "logPatterns" : [
@@ -68,6 +68,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795462434.551379,
+  "updatedAt" : 795516357.44272,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
 }
