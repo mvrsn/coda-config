@@ -21,8 +21,14 @@
   "name" : "Admin",
   "port" : 3101,
   "quickCommands" : [
-
+    {
+      "command" : "npm run resize:16x9",
+      "icon" : "terminal",
+      "id" : "18CF3904-7525-4359-BE87-12D653857C50",
+      "name" : "Resize to 16:9",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
+    }
   ],
-  "updatedAt" : 794658689.949336,
+  "updatedAt" : 795572319.176815,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
