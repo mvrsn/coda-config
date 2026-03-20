@@ -9,25 +9,46 @@
     "split" : {
       "axis" : "horizontal",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
-            "type" : "project"
+        "split" : {
+          "axis" : "horizontal",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+                "type" : "project"
+              },
+              "id" : "90BE05E8-953A-41D8-A3B2-67C32B233FD8",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "90BE05E8-953A-41D8-A3B2-67C32B233FD8",
-          "isMinimized" : false
+          "id" : "8D28BDC3-989C-4984-8504-0937FC739EA5",
+          "ratio" : 0.5,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "project"
+              },
+              "id" : "4D635A5F-9990-44A2-98BC-DDB45CF31658",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "8D28BDC3-989C-4984-8504-0937FC739EA5",
-      "ratio" : 0.5,
+      "id" : "E86BCCC1-60E4-46F4-BBF9-0D089657B31F",
+      "ratio" : 0.6666666666666666,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-            "type" : "project"
+            "agentType" : "claude",
+            "id" : "159358F0-E4C9-4B43-B3A2-634F747BFCB8",
+            "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+            "type" : "agent"
           },
-          "id" : "4D635A5F-9990-44A2-98BC-DDB45CF31658",
+          "id" : "C8485C5C-CD05-42F9-84B4-CDF229B323FB",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -35,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795724774.34846,
+  "updatedAt" : 795724788.719355,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
