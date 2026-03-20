@@ -2320,7 +2320,7 @@
         "Gemini" : 11
       },
       "appLaunches" : 11,
-      "backgroundSeconds" : 48174,
+      "backgroundSeconds" : 48191,
       "dayKey" : "2026-03-20",
       "eventCount" : 490,
       "focusAdds" : 0,
@@ -2365,7 +2365,7 @@
       },
       "workspaceBackgroundSecondsBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 50,
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 48124
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 48141
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 110,
@@ -2438,7 +2438,7 @@
     "agentSessionsResumed" : 6228,
     "agentSessionsStarted" : 130,
     "appLaunches" : 741,
-    "backgroundSeconds" : 1292137,
+    "backgroundSeconds" : 1292154,
     "focusAdds" : 23,
     "linkOpensExternal" : 20,
     "linkOpensInternal" : 113,
@@ -2454,7 +2454,7 @@
     "totalEvents" : 23322,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-20T17:46:09Z",
+  "updatedAt" : "2026-03-20T17:46:26Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 440339,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 41287,
