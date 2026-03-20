@@ -6,16 +6,35 @@
   "name" : "Web",
   "order" : 0,
   "root" : {
-    "panel" : {
-      "content" : {
-        "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-        "type" : "project"
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+            "type" : "project"
+          },
+          "id" : "01790282-C022-48D2-AC76-8E1581CA6F09",
+          "isMinimized" : false
+        },
+        "type" : "panel"
       },
-      "id" : "F8FBA29D-38DD-4C09-AB90-0BE3619657FB",
-      "isMinimized" : false
+      "id" : "DCD93919-C078-4BDB-AD18-7ACC3C7489D2",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+            "type" : "project"
+          },
+          "id" : "F8FBA29D-38DD-4C09-AB90-0BE3619657FB",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
     },
-    "type" : "panel"
+    "type" : "split"
   },
-  "updatedAt" : 795721552.884638,
+  "updatedAt" : 795721566.370052,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
