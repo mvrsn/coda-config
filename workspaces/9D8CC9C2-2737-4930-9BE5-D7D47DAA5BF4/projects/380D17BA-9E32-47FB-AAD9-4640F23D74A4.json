@@ -34,8 +34,15 @@
       "id" : "A0E9386C-E5B3-4FF1-91D1-43090FAC0E33",
       "name" : "Resize to OG (2:1)",
       "workingDirectory" : "~"
+    },
+    {
+      "command" : "yarn deploy",
+      "icon" : "paperplane.fill",
+      "id" : "CFD86DEF-9376-4BA9-A136-E64FF62ED2AA",
+      "name" : "Deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
     }
   ],
-  "updatedAt" : 795648782.691086,
+  "updatedAt" : 795803623.208,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
