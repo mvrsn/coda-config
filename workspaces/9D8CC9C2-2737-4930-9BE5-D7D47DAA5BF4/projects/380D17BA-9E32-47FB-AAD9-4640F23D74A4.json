@@ -13,6 +13,11 @@
       "id" : "B26F4C57-9913-45CC-AA23-D7944155FDAB",
       "label" : "admin",
       "url" : "http:\/\/localhost:3101"
+    },
+    {
+      "id" : "98C53F14-A4F0-4AD5-9D62-89BCEC9BA7A1",
+      "label" : "prod",
+      "url" : "https:\/\/admin.usecoda.dev"
     }
   ],
   "logPatterns" : [
@@ -43,6 +48,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795803697.602999,
+  "updatedAt" : 795815152.853849,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
