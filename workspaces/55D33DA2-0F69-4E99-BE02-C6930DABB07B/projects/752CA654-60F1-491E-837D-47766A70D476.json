@@ -40,8 +40,15 @@
       "id" : "295F0128-81AC-41B4-A7FD-B4B64DEBF45A",
       "name" : "deploy:notifications:prod",
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
+    },
+    {
+      "command" : "npm run deploy-beta",
+      "icon" : "play.circle",
+      "id" : "5B789343-6B1D-476B-97C6-DCA55DC4593C",
+      "name" : "deploy-beta",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
     }
   ],
-  "updatedAt" : 794311677.888016,
+  "updatedAt" : 795784808.034767,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
 }
