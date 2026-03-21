@@ -22,6 +22,13 @@
   "port" : 3101,
   "quickCommands" : [
     {
+      "command" : "yarn deploy",
+      "icon" : "paperplane.fill",
+      "id" : "CFD86DEF-9376-4BA9-A136-E64FF62ED2AA",
+      "name" : "Deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
+    },
+    {
       "command" : "npm run resize:16x9",
       "icon" : "terminal",
       "id" : "18CF3904-7525-4359-BE87-12D653857C50",
@@ -34,15 +41,8 @@
       "id" : "A0E9386C-E5B3-4FF1-91D1-43090FAC0E33",
       "name" : "Resize to OG (2:1)",
       "workingDirectory" : "~"
-    },
-    {
-      "command" : "yarn deploy",
-      "icon" : "paperplane.fill",
-      "id" : "CFD86DEF-9376-4BA9-A136-E64FF62ED2AA",
-      "name" : "Deploy",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
     }
   ],
-  "updatedAt" : 795803623.208,
+  "updatedAt" : 795803697.602999,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
