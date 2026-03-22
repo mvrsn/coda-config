@@ -16,11 +16,6 @@
       "id" : "B9540473-F9D6-4FF2-AC00-D00984F17199",
       "label" : "dev",
       "url" : "http:\/\/localhost:1313"
-    },
-    {
-      "id" : "50704543-660B-4285-B277-1208C23E98A3",
-      "label" : "fb debugger",
-      "url" : "https:\/\/developers.facebook.com\/tools\/debug\/?q=www.simplyfluent.com+"
     }
   ],
   "logPatterns" : [
@@ -43,6 +38,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 794872609.071003,
+  "updatedAt" : 795885734.948833,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
