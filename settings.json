@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "agent_screenshot",
-      "browser_inspector",
-      "focus_drag",
-      "voice_input",
       "session_restore",
       "workspace_switch",
-      "menu_bar_quick_access",
       "zen_mode",
+      "browser_inspector",
+      "menu_bar_quick_access",
       "browser_fullscreen",
-      "quick_add_task"
+      "agent_screenshot",
+      "quick_add_task",
+      "focus_drag",
+      "voice_input"
     ],
     "dismissed" : false
   },
@@ -77,18 +77,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectStarted",
-      "tasksSeen",
-      "viewsSeen",
-      "pomodoroSeen",
+      "agentSeen",
       "projectCreated",
       "metricsSeen",
-      "browserOpened",
+      "pomodoroSeen",
       "linkAdded",
+      "viewsSeen",
+      "browserOpened",
       "focusSeen",
+      "projectStarted",
       "workspaceCreated",
-      "sidebarSeen",
-      "agentSeen"
+      "tasksSeen",
+      "sidebarSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
