@@ -44,6 +44,20 @@
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Add FAQ Section",
       "updatedAt" : 795175653.664959
+    },
+    {
+      "columnId" : "60DE6CEE-4AE1-4619-BDE3-55521E6BA481",
+      "createdAt" : 795985657.526322,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "CE6B0022-5235-406C-9C2E-9A4EBA3CF48C",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+      "title" : "Submit to BetaList",
+      "updatedAt" : 795985664.558859
     }
   ],
   "columns" : [
@@ -70,7 +84,8 @@
     },
     {
       "cardIds" : [
-        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA"
+        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA",
+        "CE6B0022-5235-406C-9C2E-9A4EBA3CF48C"
       ],
       "color" : "F59E0B",
       "icon" : "flame.fill",
@@ -113,5 +128,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795728826.175597
+  "updatedAt" : 795985669.239153
 }
