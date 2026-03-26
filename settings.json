@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "focus_drag",
-      "quick_add_task",
-      "workspace_switch",
-      "session_restore",
-      "voice_input",
-      "browser_inspector",
-      "zen_mode",
       "menu_bar_quick_access",
+      "voice_input",
+      "session_restore",
+      "focus_drag",
+      "workspace_switch",
+      "quick_add_task",
+      "agent_screenshot",
+      "browser_inspector",
       "browser_fullscreen",
-      "agent_screenshot"
+      "zen_mode"
     ],
     "dismissed" : false
   },
@@ -46,6 +46,14 @@
   "lastSelectedLayoutId" : "688BD6EA-EB42-4B8D-849D-89A785133C29",
   "lastSelectedWorkspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B",
   "linkOpenPreference" : "panel",
+  "liveAgentMetrics" : {
+    "claude" : {
+      "state" : "disabled"
+    },
+    "gemini" : {
+      "state" : "disabled"
+    }
+  },
   "mailingList" : {
     "bannerDismissed" : true,
     "subscribed" : false
@@ -69,18 +77,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "metricsSeen",
-      "sidebarSeen",
-      "projectStarted",
-      "linkAdded",
-      "focusSeen",
       "agentSeen",
-      "workspaceCreated",
+      "projectStarted",
+      "viewsSeen",
+      "metricsSeen",
+      "linkAdded",
       "pomodoroSeen",
       "projectCreated",
-      "browserOpened",
-      "viewsSeen",
-      "tasksSeen"
+      "tasksSeen",
+      "sidebarSeen",
+      "workspaceCreated",
+      "focusSeen",
+      "browserOpened"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
@@ -105,8 +113,10 @@
     "visualStyle" : "etherealDrift"
   },
   "resumeStartupConcurrency" : 3,
+  "screenshotFlashEnabled" : true,
   "sessionResumePreference" : "alwaysResume",
   "shellPath" : "\/bin\/zsh",
+  "showAgentBrandIcons" : false,
   "showNotificationsOnCrash" : true,
   "systemMetricsDisplayMode" : "text",
   "voice" : {
