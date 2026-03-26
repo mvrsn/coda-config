@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "session_restore",
-      "quick_add_task",
       "browser_fullscreen",
       "browser_inspector",
-      "focus_drag",
-      "zen_mode",
+      "quick_add_task",
       "menu_bar_quick_access",
-      "workspace_switch",
       "voice_input",
-      "agent_screenshot"
+      "agent_screenshot",
+      "focus_drag",
+      "workspace_switch",
+      "zen_mode",
+      "session_restore"
     ],
     "dismissed" : false
   },
@@ -77,18 +77,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "metricsSeen",
-      "agentSeen",
-      "focusSeen",
+      "tasksSeen",
       "projectStarted",
-      "sidebarSeen",
       "workspaceCreated",
+      "browserOpened",
+      "agentSeen",
+      "sidebarSeen",
+      "focusSeen",
+      "metricsSeen",
       "viewsSeen",
       "pomodoroSeen",
       "linkAdded",
-      "projectCreated",
-      "tasksSeen",
-      "browserOpened"
+      "projectCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
@@ -116,7 +116,6 @@
   "screenshotFlashEnabled" : true,
   "sessionResumePreference" : "alwaysResume",
   "shellPath" : "\/bin\/zsh",
-  "showAgentBrandIcons" : false,
   "showNotificationsOnCrash" : true,
   "systemMetricsDisplayMode" : "text",
   "voice" : {
