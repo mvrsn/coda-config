@@ -115,11 +115,26 @@
       "projectId" : "74867419-6E03-4B3D-B4B8-B3B7252B2D56",
       "title" : "test",
       "updatedAt" : 794698769.45828
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 796307672.986312,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "DB9217E6-D8D0-426C-8CE7-DC02000636B0",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
+      "title" : "Convert concept pipeline to use promptWithUsage instead of ai.prompt()",
+      "updatedAt" : 796307672.986313
     }
   ],
   "columns" : [
     {
       "cardIds" : [
+        "DB9217E6-D8D0-426C-8CE7-DC02000636B0",
         "1AA7140F-DDCD-446C-A3F4-C31489C12CF1",
         "6BE9FA6C-81A3-4E8A-8F11-4ECDBE0AC89D",
         "DB570C88-D4E8-412E-888E-3739E5D8A461",
@@ -188,5 +203,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 796226708.080521
+  "updatedAt" : 796307687.878534
 }
