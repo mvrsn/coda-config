@@ -17,13 +17,12 @@
                 "id" : "967C9DC2-CFCB-49F6-9144-A502BBA814B6",
                 "type" : "browser"
               },
-              "id" : "D5716902-A731-4B4F-AE4D-F73DEBA6BBC1",
+              "id" : "A12A774A-161D-4BB2-9B5E-20FBDE8FE315",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "84B1862D-BE24-4DCD-A5A7-F4280547F2E7",
-          "previousRatio" : 0.72,
+          "id" : "57F6E955-1982-431C-B26F-0F05144D733F",
           "ratio" : 1,
           "second" : {
             "panel" : {
@@ -31,7 +30,7 @@
                 "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                 "type" : "project"
               },
-              "id" : "B3289071-4420-4368-B954-17A59F73846F",
+              "id" : "186173DF-DE0F-4543-BFF6-55C92E791251",
               "isMinimized" : true
             },
             "type" : "panel"
@@ -39,7 +38,7 @@
         },
         "type" : "split"
       },
-      "id" : "D7A8D4BD-7903-4A8C-9750-2391374A9DB1",
+      "id" : "4F2CB1B1-1855-4213-AE3B-BADACA0AAC7B",
       "ratio" : 0.75,
       "second" : {
         "split" : {
@@ -52,23 +51,22 @@
                 "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                 "type" : "agent"
               },
-              "id" : "B7E22F32-E9AB-4039-B892-5DFEFEEF1F24",
+              "id" : "612C0689-DCF0-4023-9ECC-F5FA8362AC08",
               "isMinimized" : true
             },
             "type" : "panel"
           },
-          "id" : "D3124106-BB99-4E2F-95C7-3DF757A5CBC2",
-          "previousRatio" : 0.5,
+          "id" : "D07E42FB-C972-4FDD-A4FE-404EA1038F86",
           "ratio" : 0,
           "second" : {
             "panel" : {
               "content" : {
                 "agentType" : "claude",
-                "id" : "2DDE36B8-1F13-4134-BFDA-F475C41103A2",
+                "id" : "85BA87CE-06D3-4148-8921-8BF3F5FCC662",
                 "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                 "type" : "agent"
               },
-              "id" : "8D86C745-F9C4-449C-9DCE-7EABFCFEDD23",
+              "id" : "5D998E31-840F-40BC-AC4D-9C1DA2C8543A",
               "isMinimized" : false
             },
             "type" : "panel"
@@ -79,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 796471448.782553,
+  "updatedAt" : 796472786.604212,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
