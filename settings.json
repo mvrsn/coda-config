@@ -27,7 +27,14 @@
     "gemini" : {
       "advancedOverride" : "",
       "values" : {
-
+        "approvalMode" : {
+          "stringValue" : "auto_edit",
+          "type" : "string"
+        },
+        "sandbox" : {
+          "stringValue" : "",
+          "type" : "string"
+        }
       }
     }
   },
