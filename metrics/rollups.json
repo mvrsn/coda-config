@@ -3029,16 +3029,16 @@
       "workspaceStarts" : 0
     },
     "2026-03-31" : {
-      "activeSeconds" : 8259,
+      "activeSeconds" : 12227,
       "agentSessionsResumed" : 7,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 7
       },
       "appLaunches" : 1,
-      "backgroundSeconds" : 60873,
+      "backgroundSeconds" : 61423,
       "dayKey" : "2026-03-31",
-      "eventCount" : 161,
+      "eventCount" : 173,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "0" : 5,
@@ -3048,7 +3048,8 @@
         "17" : 2,
         "18" : 29,
         "19" : 16,
-        "20" : 23
+        "20" : 27,
+        "21" : 8
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -3077,7 +3078,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 60873
+        "00000000-0000-0000-0000-000000000001" : 61423
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 23,
@@ -3102,8 +3103,8 @@
     "18" : 1221,
     "19" : 1637,
     "2" : 120,
-    "20" : 1738,
-    "21" : 1675,
+    "20" : 1742,
+    "21" : 1683,
     "22" : 1592,
     "23" : 1830,
     "3" : 130,
@@ -3113,7 +3114,7 @@
     "8" : 721,
     "9" : 1393
   },
-  "lastEventAt" : "2026-03-31T19:08:17Z",
+  "lastEventAt" : "2026-03-31T20:23:41Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -3145,11 +3146,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 892832,
+    "activeSeconds" : 896800,
     "agentSessionsResumed" : 6739,
     "agentSessionsStarted" : 159,
     "appLaunches" : 822,
-    "backgroundSeconds" : 1819932,
+    "backgroundSeconds" : 1820482,
     "focusAdds" : 26,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 125,
@@ -3162,12 +3163,12 @@
     "projectStarts" : 6472,
     "projectStops" : 88,
     "quickActions" : 157,
-    "totalEvents" : 27810,
+    "totalEvents" : 27822,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-31T19:08:17Z",
+  "updatedAt" : "2026-03-31T20:23:41Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 751813,
+    "00000000-0000-0000-0000-000000000001" : 755781,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 43013,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37572,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
