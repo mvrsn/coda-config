@@ -1,4 +1,24 @@
 {
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
   "autoRestart" : false,
   "color" : "4ECDC4",
   "command" : "yarn dev",
@@ -16,6 +36,11 @@
       "id" : "B9540473-F9D6-4FF2-AC00-D00984F17199",
       "label" : "dev",
       "url" : "http:\/\/localhost:1313"
+    },
+    {
+      "id" : "1023FD64-937A-4E0F-B0EF-344060A7CC6F",
+      "label" : "landing",
+      "url" : "http:\/\/localhost:1313\/landing.html"
     }
   ],
   "logPatterns" : [
@@ -38,6 +63,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 795885734.948833,
+  "updatedAt" : 796681609.3103,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
