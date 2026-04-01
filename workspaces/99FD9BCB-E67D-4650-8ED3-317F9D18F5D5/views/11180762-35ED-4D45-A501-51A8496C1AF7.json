@@ -1,0 +1,40 @@
+{
+  "color" : "667eea",
+  "createdAt" : 796772950.985812,
+  "icon" : "square.grid.2x2",
+  "id" : "11180762-35ED-4D45-A501-51A8496C1AF7",
+  "name" : "Column Repair",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "vertical",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "48798634-FEA6-4650-9FC3-54B496018B29",
+            "type" : "project"
+          },
+          "id" : "9E500175-3742-47F9-846C-FB9964065572",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "85AE1D36-7408-43C8-8F44-9216BF6590C0",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "3197F858-B445-4B9A-85BD-7BEC1EAC15B2",
+            "type" : "project"
+          },
+          "id" : "3201BFEA-713D-417C-8FF9-F79FE18FD71F",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 796772950.985881,
+  "workspaceId" : "99FD9BCB-E67D-4650-8ED3-317F9D18F5D5"
+}

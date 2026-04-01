@@ -1,0 +1,40 @@
+{
+  "color" : "667eea",
+  "createdAt" : 796772950.973169,
+  "icon" : "square.grid.2x2",
+  "id" : "38345BD9-887C-4136-B1B8-E90825EFFA62",
+  "name" : "Collapsed",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "39992A7B-71DE-4D9B-A479-E685BB8FF22C",
+            "type" : "project"
+          },
+          "id" : "6CAA547D-6D0A-4BD7-A4C1-2421E984433E",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "FAEFFE10-B706-45C3-B37F-2EA0FDC597DC",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "7D566138-5AFB-495B-A396-495B7BF29E28",
+            "type" : "project"
+          },
+          "id" : "A41C99A4-B6DF-482E-B532-A4020045A7F6",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 796772950.973364,
+  "workspaceId" : "DD78C18C-5116-4085-9CDE-1715F9A23FBA"
+}
