@@ -3099,7 +3099,7 @@
       "appLaunches" : 1,
       "backgroundSeconds" : 38955,
       "dayKey" : "2026-04-01",
-      "eventCount" : 168,
+      "eventCount" : 169,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "0" : 31,
@@ -3111,7 +3111,7 @@
         "17" : 9,
         "18" : 38,
         "19" : 8,
-        "21" : 11,
+        "21" : 12,
         "9" : 3
       },
       "linkOpensExternal" : 0,
@@ -3122,6 +3122,7 @@
       "pomodoroFocusMinutes" : 0,
       "pomodoroFocusSessions" : 0,
       "projectEventBreakdown" : {
+        "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 1,
         "37589B41-B979-43E4-94EE-0431660DBDB9" : 3,
         "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 1,
         "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 5,
@@ -3130,7 +3131,7 @@
         "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 3
       },
       "projectRestarts" : 6,
-      "projectStarts" : 6,
+      "projectStarts" : 7,
       "projectStops" : 0,
       "quickActions" : 1,
       "workspaceActiveSecondsBreakdown" : {
@@ -3141,6 +3142,7 @@
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 14,
+        "56632FF1-48EF-4498-A190-1DEE0D907C61" : 1,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 1
       },
       "workspaceStarts" : 0
@@ -3162,7 +3164,7 @@
     "19" : 1645,
     "2" : 120,
     "20" : 1742,
-    "21" : 1696,
+    "21" : 1697,
     "22" : 1603,
     "23" : 1857,
     "3" : 130,
@@ -3172,12 +3174,12 @@
     "8" : 721,
     "9" : 1396
   },
-  "lastEventAt" : "2026-04-01T20:31:46Z",
+  "lastEventAt" : "2026-04-01T20:31:52Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
     "1FD78126-3777-456E-B467-72855D63E3FC" : 468,
-    "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 1118,
+    "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 1119,
     "2C3F1B80-012B-4C26-8F2D-35FA91D6F82F" : 3,
     "2D9D140A-5FB1-4C32-BF58-AA1915E06DE7" : 674,
     "34FFF20B-C45F-4DE6-894C-F3906626606F" : 1,
@@ -3218,13 +3220,13 @@
     "pomodoroFocusMinutes" : 0,
     "pomodoroFocusSessions" : 0,
     "projectRestarts" : 242,
-    "projectStarts" : 6479,
+    "projectStarts" : 6480,
     "projectStops" : 89,
     "quickActions" : 158,
-    "totalEvents" : 28030,
+    "totalEvents" : 28031,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-04-01T20:31:46Z",
+  "updatedAt" : "2026-04-01T20:31:52Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 798085,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 44040,
@@ -3235,7 +3237,7 @@
   },
   "workspaceBreakdown" : {
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 9070,
-    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2761,
+    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2762,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
     "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 1025,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1189
