@@ -38,6 +38,10 @@
           "stringValue" : "auto_edit",
           "type" : "string"
         },
+        "checkpointingEnabled" : {
+          "boolValue" : false,
+          "type" : "bool"
+        },
         "sandbox" : {
           "stringValue" : "",
           "type" : "string"
