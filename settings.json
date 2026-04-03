@@ -1,62 +1,5 @@
 {
   "agentIdleBadgesEnabled" : true,
-  "agentLaunchDefaults" : {
-    "claude" : {
-      "advancedOverride" : "",
-      "values" : {
-        "model" : {
-          "stringValue" : "",
-          "type" : "string"
-        },
-        "permissionMode" : {
-          "stringValue" : "auto",
-          "type" : "string"
-        },
-        "remoteControl" : {
-          "boolValue" : true,
-          "type" : "bool"
-        }
-      }
-    },
-    "codex" : {
-      "advancedOverride" : "",
-      "values" : {
-        "personality" : {
-          "stringValue" : "friendly",
-          "type" : "string"
-        },
-        "reasoningEffort" : {
-          "stringValue" : "medium",
-          "type" : "string"
-        }
-      }
-    },
-    "gemini" : {
-      "advancedOverride" : "",
-      "values" : {
-        "approvalMode" : {
-          "stringValue" : "auto_edit",
-          "type" : "string"
-        },
-        "checkpointingEnabled" : {
-          "boolValue" : false,
-          "type" : "bool"
-        },
-        "sandbox" : {
-          "stringValue" : "",
-          "type" : "string"
-        },
-        "showMemoryUsage" : {
-          "boolValue" : true,
-          "type" : "bool"
-        },
-        "telemetryEnabled" : {
-          "boolValue" : true,
-          "type" : "bool"
-        }
-      }
-    }
-  },
   "agentNotificationsEnabled" : true,
   "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
@@ -64,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "browser_inspector",
-      "quick_add_task",
       "session_restore",
-      "browser_fullscreen",
-      "focus_drag",
-      "menu_bar_quick_access",
-      "voice_input",
-      "zen_mode",
       "agent_screenshot",
-      "workspace_switch"
+      "zen_mode",
+      "browser_inspector",
+      "workspace_switch",
+      "browser_fullscreen",
+      "quick_add_task",
+      "focus_drag",
+      "voice_input",
+      "menu_bar_quick_access"
     ],
     "dismissed" : false
   },
@@ -133,16 +76,16 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectCreated",
-      "sidebarSeen",
-      "tasksSeen",
+      "projectStarted",
       "focusSeen",
+      "sidebarSeen",
+      "projectCreated",
       "workspaceCreated",
       "linkAdded",
       "browserOpened",
-      "metricsSeen",
       "agentSeen",
-      "projectStarted",
+      "metricsSeen",
+      "tasksSeen",
       "pomodoroSeen",
       "viewsSeen"
     ],
